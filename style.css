@@ -1,0 +1,12 @@
+body{
+background-color: cyan;
+text-align: center;
+}
+
+#player_1_login_div , #player_2_login_div{
+background: white;
+padding: 10px;
+float: none;
+border-radius: 15px;
+}
+
